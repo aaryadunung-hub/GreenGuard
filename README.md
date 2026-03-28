@@ -28,3 +28,9 @@ streamlit run app.py
 ![Output 3](OP3.png)
 
 
+## 🎥 Demo Video
+
+[Click here to watch demo](demo.mp4)
+
+
+
